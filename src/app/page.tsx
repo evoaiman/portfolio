@@ -63,7 +63,7 @@ export default function Home() {
           </div>
           <div className="card portrait">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/am-edited.jpg" alt="Aiman Saharudin" />
+            <img src="/portrait.jpg" alt="Aiman, silhouette portrait" />
           </div>
         </div>
       </header>
