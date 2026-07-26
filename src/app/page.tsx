@@ -85,7 +85,6 @@ export default function Home() {
             <div className="socials">
               <a className="soc" href="https://github.com/evoaiman" target="_blank" rel="noreferrer">GitHub</a>
               <a className="soc" href="https://www.linkedin.com/in/aiman-saharudin/" target="_blank" rel="noreferrer">LinkedIn</a>
-              <a className="soc" href="https://dribbble.com/iamaiman" target="_blank" rel="noreferrer">Dribbble</a>
               <a className="soc" href="mailto:aiman_saharudin@yahoo.com">Email</a>
             </div>
           </div>
