@@ -77,12 +77,14 @@ export default function Home() {
               Software engineer based in <b>Shah Alam, Malaysia</b>, building{" "}
               <b>web apps</b>, <b>mobile apps</b> and <b>AI-agent products</b>{" "}
               with <b>Next.js</b>, <b>Laravel</b>, <b>Go</b> and{" "}
-              <b>Flutter</b>. At <b>Bateriku</b> I build enterprise platforms:
+              <b>Flutter</b>. At <b>Bateriku</b> I build the internal platforms:
               ops consoles, reporting systems, and the plumbing that keeps a
-              national roadside-assistance network running. Outside work I
-              sharpen the same skills on <b>personal projects</b>, shipped end
-              to end: design, code, deploy, operate. I care about systems that
-              stay simple as they grow.
+              national roadside-assistance network running. Beyond that I&apos;ve
+              shipped a <b>scalable clinical system</b> for{" "}
+              <b>Institut Kanser Negara</b>, <b>fraud detection</b> for{" "}
+              <b>Deriv</b>, and a full <b>MotorManiac</b> event platform in{" "}
+              <b>under a week</b> &mdash; design, code, deploy, operate. I care
+              about systems that stay simple as they grow.
             </p>
             <div className="socials">
               <a className="soc" href="https://github.com/evoaiman" target="_blank" rel="noreferrer">GitHub</a>
