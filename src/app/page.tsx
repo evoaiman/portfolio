@@ -134,7 +134,7 @@ export default function Home() {
         <div className="sec-label">Projects</div>
         <div>
           <div className="proj-grid">
-            <a className="card proj-big" href="https://bateriku.com/brace/" target="_blank" rel="noreferrer">
+            <a className="card proj-big" href="https://brace.bateriku.com" target="_blank" rel="noreferrer">
               <div className="shot">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/BRACE Mockup.png" alt="BRACE dashboard mockup" />
@@ -151,7 +151,7 @@ export default function Home() {
                 <span className="arrow">&#8599;</span>
               </div>
             </a>
-            <a className="card proj-big" href="https://bateriku.com/ticketing/" target="_blank" rel="noreferrer">
+            <a className="card proj-big" href="https://rakanbateriku.com" target="_blank" rel="noreferrer">
               <div className="shot">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src="/Ticketing Mockup.png" alt="Event ticketing platform mockup" />
