@@ -74,13 +74,15 @@ export default function Home() {
         <div className="card about-card">
           <div className="about-main">
             <p>
-              Software engineer based in <b>Kuala Lumpur, Malaysia</b>. At{" "}
-              <b>Bateriku</b> I build enterprise platforms: ops consoles,
-              reporting systems, and the plumbing that keeps a national
-              roadside-assistance network running. Outside work I sharpen the
-              same skills on <b>personal projects</b>: web apps, mobile apps,
-              and AI-agent products shipped end to end: design, code, deploy,
-              operate. I care about systems that stay simple as they grow.
+              Software engineer based in <b>Shah Alam, Malaysia</b>, building{" "}
+              <b>web apps</b>, <b>mobile apps</b> and <b>AI-agent products</b>{" "}
+              with <b>Next.js</b>, <b>Laravel</b>, <b>Go</b> and{" "}
+              <b>Flutter</b>. At <b>Bateriku</b> I build enterprise platforms:
+              ops consoles, reporting systems, and the plumbing that keeps a
+              national roadside-assistance network running. Outside work I
+              sharpen the same skills on <b>personal projects</b>, shipped end
+              to end: design, code, deploy, operate. I care about systems that
+              stay simple as they grow.
             </p>
             <div className="socials">
               <a className="soc" href="https://github.com/evoaiman" target="_blank" rel="noreferrer">GitHub</a>
@@ -248,7 +250,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer>© 2026 Aiman Saharudin · Kuala Lumpur · Keep it simple.</footer>
+      <footer>© 2026 Aiman Saharudin · Shah Alam · Keep it simple.</footer>
     </div>
   );
 }

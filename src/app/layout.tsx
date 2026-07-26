@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Aiman · Full Stack Developer',
-  description: 'Full-stack engineer and AI-agent builder in Kuala Lumpur. I build products that run themselves.',
+  description: 'Full-stack engineer and AI-agent builder in Shah Alam. Web, mobile and AI-agent products with Next.js, Laravel, Go and Flutter.',
 }
 
 export default function RootLayout({
