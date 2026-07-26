@@ -80,10 +80,30 @@ export default function Home() {
               <b>Flutter</b>. At <b>Bateriku</b> I build the internal platforms:
               ops consoles, reporting systems, and the plumbing that keeps a
               national roadside-assistance network running. Beyond that I&apos;ve
-              shipped a <b>scalable clinical system</b> for{" "}
-              <b>Institut Kanser Negara</b>, <b>fraud detection</b> for{" "}
-              <b>Deriv</b>, and a full <b>MotorManiac</b> event platform in{" "}
-              <b>under a week</b> &mdash; design, code, deploy, operate. I care
+              shipped a{" "}
+              <a href="https://dosebase.sawangtech.com/" target="_blank" rel="noreferrer">
+                <b>scalable clinical system</b>
+              </a>{" "}
+              for{" "}
+              <a href="https://www.instagram.com/institutkansernegara/?hl=en" target="_blank" rel="noreferrer">
+                <b>Institut Kanser Negara</b>
+              </a>
+              ,{" "}
+              <a href="https://nexa.sawangtech.com/" target="_blank" rel="noreferrer">
+                <b>fraud detection</b>
+              </a>{" "}
+              for{" "}
+              <a href="https://deriv.com/" target="_blank" rel="noreferrer">
+                <b>Deriv</b>
+              </a>
+              , and a full{" "}
+              <a href="https://www.motormaniac.co/en" target="_blank" rel="noreferrer">
+                <b>MotorManiac</b>
+              </a>{" "}
+              <a href="https://rakanbateriku.com/" target="_blank" rel="noreferrer">
+                <b>event platform</b>
+              </a>{" "}
+              in <b>under a week</b> &mdash; design, code, deploy, operate. I care
               about systems that stay simple as they grow.
             </p>
             <div className="socials">
