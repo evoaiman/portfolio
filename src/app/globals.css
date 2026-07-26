@@ -96,6 +96,12 @@
   .about-main { display: flex; flex-direction: column; gap: 28px; }
   .about-card p { color: var(--muted); font-size: clamp(16px, 1.5vw, 19px); line-height: 1.7; max-width: 62ch; }
   .about-card p b { color: var(--text); font-weight: 600; }
+  .about-card p a {
+    text-decoration: underline; text-decoration-thickness: 1px;
+    text-underline-offset: 3px; text-decoration-color: #4A4A52;
+    transition: text-decoration-color .2s;
+  }
+  .about-card p a:hover { text-decoration-color: var(--text); }
   .socials { display: flex; gap: 10px; flex-wrap: wrap; }
   .soc {
     display: inline-flex; align-items: center; gap: 9px;
